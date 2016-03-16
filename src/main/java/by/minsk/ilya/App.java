@@ -1,7 +1,7 @@
 package by.minsk.ilya;
 
 /**
- * Hello world dev-1 Krishnan!
+ * Hello world dev-1!
  *
  */
 public class App 
